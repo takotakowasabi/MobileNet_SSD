@@ -22,10 +22,6 @@ SSDやMobileNetの論文から、独自に作成したMobileNet-SSDのモデル�
 
 インターン中に日記のようにつけていた備忘録たちです。
 
-- tensorboard_log
-
-tensor board用のlogファイルです。かなり雑多に混ざっていますが、モデルの参考にしていただければと思います。
-
 ---
 
 学習済みの重みは[こちら](https://drive.google.com/drive/folders/1IhSM9zV4o1wLTOg0GMe_Dmf2U9iTmpf_?usp=sharing)になります。
