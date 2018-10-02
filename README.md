@@ -26,9 +26,9 @@ SSDやMobileNetの論文から、独自に作成したMobileNet-SSDのモデル�
 
 tensor board用のlogファイルです。かなり雑多に混ざっていますが、モデルの参考にしていただければと思います。
 
-- weights
+---
 
-学習済みの重みになります。
+学習済みの重みは[こちら](https://drive.google.com/drive/folders/1IhSM9zV4o1wLTOg0GMe_Dmf2U9iTmpf_?usp=sharing)になります。
 
 ### mobilenet_ssd300_ReLU_face_detection_epoch-116_loss-4.4657_val_loss-4.1590
 
